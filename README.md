@@ -17,5 +17,7 @@ The dataset includes 21 predictor variables related to customer demographics, us
 **Key Components:**
 
 Code: Scripts for data preprocessing, analysis, and model building.
+
 Data: The dataset used for the analysis.
+
 Documentation: Detailed explanation of the steps
